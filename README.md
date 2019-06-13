@@ -1,7 +1,7 @@
 # GraphTalk2019
 Resources and additional information for my talk on the 2019 Neo4j Summer Conference about Graph Data Modelling
 
-## Resources:
+## Resources
 
 ### More Graph Use Cases (login needed, but worth it)
 https://neo4j.com/sandbox-v2/
@@ -15,7 +15,7 @@ https://www.kaggle.com/ironben/rdbs-to-graphdb-neo4j-network-approach
 #### PART 2
 https://www.kaggle.com/ironben/networkbased-eda-nlp-rec-engine
 
-### Developer tools:
+### Developer tools
 #### GRANDStack:
 https://grandstack.io/docs/getting-started-neo4j-graphql.html
 ##### GraphQL ->
@@ -36,7 +36,7 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adw
 Neo4j Driver:
 https://neo4j.com/docs/api/python-driver/current/
 
-## Contact info:
+## Contact info
 ### LinkedIn:
 https://www.linkedin.com/in/bence-vass-3a882696/
 ### GitHub: 
