@@ -27,6 +27,13 @@ https://www.apollographql.com/docs/
 ##### Neo4j
 https://neo4j.com/developer/
 
+##### Python
+Start:
+https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adwords_ppc&utm_campaignid=1242944157&utm_adgroupid=53325797735&utm_device=c&utm_keyword=%2Bdatacamp%20%2Bpython&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=258012599512&utm_targetid=kwd-414126611260&utm_loc_interest_ms=&utm_loc_physical_ms=9063087&gclid=EAIaIQobChMIh9GE0pLn4gIVi08YCh1p6Q3uEAAYASABEgLkQfD_BwE
+
+Neo4j Driver:
+https://neo4j.com/docs/api/python-driver/current/
+
 ## Contact info:
 ### LinkedIn:
 https://www.linkedin.com/in/bence-vass-3a882696/
