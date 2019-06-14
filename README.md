@@ -17,7 +17,8 @@ https://www.kaggle.com/ironben/networkbased-eda-nlp-rec-engine
 
 ### Developer tools
 #### GRANDStack:
-https://grandstack.io/docs/getting-started-neo4j-graphql.html
+  * Docs: https://grandstack.io/docs/getting-started-neo4j-graphql.html
+  * Learning: https://learn.freecodecamp.org/ (JS basics, React, NodeJS, Web Development)
 ##### GraphQL ->
 https://graphql.org/learn/
 ##### React ->
