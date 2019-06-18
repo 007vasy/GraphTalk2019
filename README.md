@@ -15,17 +15,17 @@ https://www.kaggle.com/ironben/rdbs-to-graphdb-neo4j-network-approach
 #### PART 2
 https://www.kaggle.com/ironben/networkbased-eda-nlp-rec-engine
 
-### Developer tools
+### Developer tools to start to use the power of graphs
 #### GRANDStack:
   * Docs: https://grandstack.io/docs/getting-started-neo4j-graphql.html
   * Learning: https://learn.freecodecamp.org/ (JS basics, React, NodeJS, Web Development)
-##### GraphQL ->
+##### GraphQL -> to have a one-endpoint API for you database
 https://graphql.org/learn/
-##### React ->
+##### React -> frontend
 https://reactjs.org/docs/getting-started.html
-##### Apollo ->
+##### Apollo -> backend
 https://www.apollographql.com/docs/
-##### Neo4j ->
+##### Neo4j -> the database itself
 https://neo4j.com/developer/
 
 --
@@ -36,6 +36,13 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adw
 
 Neo4j Driver:
 https://neo4j.com/docs/api/python-driver/current/
+
+#### Gephi -> Open Source Graph Viz Tool (scientific oriented)
+https://gephi.org/
+#### Bloom -> Neo4j Visualisation Tool (business oriented)
+https://neo4j.com/bloom/ 
+#### Linkurios -> Vizualisation Tool (business oriented)
+https://linkurio.us/
 
 ## Contact info
 ### LinkedIn:
