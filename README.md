@@ -47,7 +47,9 @@ https://linkurio.us/
 ## Contact info
 ### LinkedIn:
 https://www.linkedin.com/in/bence-vass-3a882696/
-### GitHub: 
-https://github.com/007vasy/
+
 ### Kaggle:
 https://www.kaggle.com/ironben
+
+### GitHub: 
+https://github.com/007vasy/
