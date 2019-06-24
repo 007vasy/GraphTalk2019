@@ -41,6 +41,10 @@ https://neo4j.com/docs/api/python-driver/current/
 
 #### Gephi -> Open Source Graph Viz Tool (scientific oriented)
 https://gephi.org/
+#####
+You can stream the data with the apoc.gephi.add function from Neo4j to Gephi
+https://neo4j-contrib.github.io/neo4j-apoc-procedures/#_graphml_import_export
+
 #### Bloom -> Neo4j Visualisation Tool (business oriented)
 https://neo4j.com/bloom/ 
 #### Linkurios -> Vizualisation Tool (business oriented)
