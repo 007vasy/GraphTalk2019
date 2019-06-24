@@ -37,12 +37,17 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adw
 Neo4j Driver:
 https://neo4j.com/docs/api/python-driver/current/
 
+### Vizualisation:
+
 #### Gephi -> Open Source Graph Viz Tool (scientific oriented)
 https://gephi.org/
 #### Bloom -> Neo4j Visualisation Tool (business oriented)
 https://neo4j.com/bloom/ 
 #### Linkurios -> Vizualisation Tool (business oriented)
 https://linkurio.us/
+
+#### Libraries and frameworks
+https://neo4j.com/developer/tools-graph-visualization/
 
 ## Contact info
 ### LinkedIn:
